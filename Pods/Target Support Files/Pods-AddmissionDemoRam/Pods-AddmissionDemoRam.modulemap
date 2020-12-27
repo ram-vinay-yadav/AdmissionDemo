@@ -1,0 +1,6 @@
+framework module Pods_AddmissionDemoRam {
+  umbrella header "Pods-AddmissionDemoRam-umbrella.h"
+
+  export *
+  module * { export * }
+}
